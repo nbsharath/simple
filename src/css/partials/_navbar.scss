@@ -1,0 +1,15 @@
+
+
+.side-nav {
+  a{
+  height: $nav-link-height;
+  line-height: $nav-link-height;;
+  }
+  a.logo-constainer{
+    width: inherit;
+    padding: 0px;
+    margin: 0px;
+    color: $link-button-color;
+
+  }
+}

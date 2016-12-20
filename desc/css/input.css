@@ -1,0 +1,19 @@
+/* this is awesome */
+/* put the normalizer first*/
+.side-nav a {
+  height: 45px;
+  line-height: 45px; }
+.side-nav a.logo-constainer {
+  width: inherit;
+  padding: 0px;
+  margin: 0px;
+  color: white; }
+
+.side-nav a {
+  height: 45px;
+  line-height: 45px; }
+.side-nav a.logo-constainer {
+  width: inherit;
+  padding: 0px;
+  margin: 0px;
+  color: grey; }
